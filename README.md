@@ -2,7 +2,7 @@
 Word cloud of some Machado de Assis books
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/56649205/84075676-ecc3a280-a9aa-11ea-8750-836fcdcd9d9d.jpg">
+  <img src="https://user-images.githubusercontent.com/56649205/84083088-59449e80-a9b7-11ea-9ed2-621a560713c3.jpg">
 </p>
 
 ## Requirements
