@@ -1,5 +1,5 @@
 # WordCloud
-Word cloud of some Machado de Assis books
+Word cloud with Machado de Assis books
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/56649205/84083088-59449e80-a9b7-11ea-9ed2-621a560713c3.jpg">
