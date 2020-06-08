@@ -23,4 +23,5 @@ img = cv2.imread('machado_burned.jpg')
 ...
 ```
 4) Now we have a photo similar to [machado mask](https://github.com/luiseduardobr1/WordCloud/blob/master/machado_mask.jpg)
-5) Delete stopwords, punctuations and more with [nltk stopwords](https://www.nltk.org/book/ch02.html) and *Analisando a frequência das palavras* script. 
+5) Delete stopwords, punctuations and more with [nltk stopwords](https://www.nltk.org/book/ch02.html) and *Analisando a frequência das palavras* script (see my version of [portuguese stopwords](https://github.com/luiseduardobr1/WordCloud/blob/master/portuguese_stopwords))
+6) After filter the words just run *Word Cloud* script (for [more examples](https://amueller.github.io/word_cloud/auto_examples/index.html)
